@@ -5,7 +5,7 @@ main:
   - title: "Research"
     url: /research/
   - title: "Miscellaneous"
-    url: /posts/misc/
+    url: /categories/#misc
   - title: "About"
     url: /about/
   - title: "Impressum"
