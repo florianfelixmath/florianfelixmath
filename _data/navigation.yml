@@ -1,4 +1,3 @@
-include: ['_misc']
 main:
   - title: "Blog"
     url: /math/posts/
