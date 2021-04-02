@@ -1,7 +1,7 @@
 category-list: [math,misc]
 main:
   - title: "Blog"
-    url: /math/_posts
+    url: /math/
   - title: "Research"
     url: /research/
   - title: "Miscellaneous"
