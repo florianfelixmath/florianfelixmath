@@ -1,6 +1,8 @@
 ---
 permalink: /impressum/
 ---
+You can always reach me under math@florianfelix.net.  
+For legal matters:  
 *Impressum*:   
 Florian Clemens Felix  
 c/o AutorenServices.de  
