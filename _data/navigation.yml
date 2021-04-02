@@ -1,7 +1,7 @@
 include: ['_misc']
 main:
   - title: "Blog"
-    url: /math/posts/
+    url: /math/
   - title: "Research"
     url: /research/
   - title: "Miscellaneous"
