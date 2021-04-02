@@ -1,3 +1,4 @@
+category-list: [math,misc]
 main:
   - title: "Blog"
     url: /math/_posts
