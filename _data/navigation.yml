@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Research"
     url: /pages/research.md
-  - title: "miscellaneous"
+  - title: "Miscellaneous"
     url: /misc/
   - title: "About"
     url: /about/
