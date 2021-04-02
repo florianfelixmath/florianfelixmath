@@ -7,5 +7,5 @@ main:
     url: /misc/
   - title: "About"
     url: /about/
-  -title: "Impressum"
-   url: /impressum/
+  - title: "Impressum"
+    url: /impressum/
