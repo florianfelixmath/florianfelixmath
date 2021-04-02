@@ -1,6 +1,6 @@
 main:
   - title: "Blog"
-    url: /math/
+    url: /math/_posts
   - title: "Research"
     url: /research/
   - title: "Miscellaneous"
