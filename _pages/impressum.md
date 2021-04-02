@@ -1,6 +1,5 @@
 ---
 permalink: /impressum/
-layout: page
 ---
 *Impressum*: 
 Florian Clemens Felix
