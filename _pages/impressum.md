@@ -1,8 +1,10 @@
 ---
 permalink: /impressum/
 ---
-You can always (and preferably) reach me under [math@florianfelix.net](mailto:math@florianfelix.net)  
-For legal matters:  
+You can always (and preferably) reach me under [math@florianfelix.net](mailto:math@florianfelix.net).
+  
+For legal matters:
+  
 *Impressum*:   
 Florian Clemens Felix  
 c/o AutorenServices.de  
