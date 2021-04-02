@@ -1,11 +1,11 @@
 include: ['_misc']
 main:
   - title: "Blog"
-    url: /posts/
+    url: /posts/math/
   - title: "Research"
     url: /research/
   - title: "Miscellaneous"
-    url: /misc/
+    url: /posts/misc
   - title: "About"
     url: /about/
   - title: "Impressum"
