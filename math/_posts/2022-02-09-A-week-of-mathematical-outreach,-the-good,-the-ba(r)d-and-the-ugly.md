@@ -43,4 +43,4 @@ My usual twitter account has about 1800 followers by now. That is also not a sma
 ### Conclusion 
 Well, I don't know! I think I did not too badly, but I do not have any data on how well I was actually able to communicate what I do. I think narrative structures are a good thing to help people navigate through our abstract nonsense. I also gained an enormous amount of respect for people who actually do mathematical scicomm.
 
-Do equations work here $$\sum_i^n$$
+Do equations work here '$$\sum_i^n$$' '$$' \sum_i^n'$$' <div>\[[\sum_i^n\]] '''\[[\sum_i^n\]]''' '''$$\sum_i^n$$'''
