@@ -1,5 +1,5 @@
 ## A week of mathematical outreach, the good, the bard and the ugly
-I like to talk about my research. I really do, even with people, who are not model theorists or not even mathematicians. It is fun to make up more or less *unhinged* ways of describing what you do and trying to find metaphors for very abstract thinking. So I reached out and asked whether I could be a curator for the German version of [[https://twitter.com/realsci_DE|RealScientists ]]. I followed them for a while and liked their approach of just letting scientists who are not all specialized into scicomm talk about what they do. 
+I like to talk about my research. I really do, even with people, who are not model theorists or not even mathematicians. It is fun to make up more or less *unhinged* ways of describing what you do and trying to find metaphors for very abstract thinking. So I reached out and asked whether I could be a curator for the German version of <a href="https://twitter.com/realsci_DE">RealScientists</a>. I followed them for a while and liked their approach of just letting scientists who are not all specialized into scicomm talk about what they do. 
 About a week before my turn was due, I realized: 
 
 **I would be the first mathematician on that account.**
