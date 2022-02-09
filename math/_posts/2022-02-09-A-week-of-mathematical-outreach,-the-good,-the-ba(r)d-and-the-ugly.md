@@ -17,7 +17,9 @@ I wanted to start with things that might be known to people, who are into popsci
 
 In my freetime, I feel mostly like a storyteller and tried to this week, so I created a couple of threads that had a narrative
 - The betrayal of the integers, in which I told about the structures we learn about in roughly the order of their inclusions 
+<div>
  $$\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R} \subset \mathbb{C}$$ 
+ </div>
  and where most students would find them increasingly scary. Everyone gets the natural numbers, but **what the fuck is that i business** and that stuff. And after I got to $\mathbb{C}$ I rolled it back up and told them that from the point of view of a model theorist, its the other way around. The complex numbers are tame and the further you go down the more unhinged nonsense you get. Of course that leads to rich mathematical structure, but combinatorical it gets worse and worse - apart from maybe the step from $\mathbb{Z}$ to $\mathbb{N}$ which are arguably equally bad. Of course everything in the context of a language, where we can talk about addition and multiplication. 
 - Why Gödels Incompleteness theorems are less astonishing than what is sometimes communicated, but still very great.
 - Why I like the completeness theorem and compactness a lot more. *duh*
@@ -43,7 +45,4 @@ My usual twitter account has about 1800 followers by now. That is also not a sma
 ### Conclusion 
 Well, I don't know! I think I did not too badly, but I do not have any data on how well I was actually able to communicate what I do. I think narrative structures are a good thing to help people navigate through our abstract nonsense. I also gained an enormous amount of respect for people who actually do mathematical scicomm.
 
-Do equations work here 
-<div>
- $$ \sum_i^n $$
- </div>
+
