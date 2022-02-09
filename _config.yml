@@ -67,7 +67,7 @@ author:
       url: "https://twitter.com/mathemensch"
     
 head: 
- head_scripts: - "https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
+ head_scripts: - https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 footer:
   links:
     - label: "Twitter"
