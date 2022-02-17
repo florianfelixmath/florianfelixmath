@@ -19,7 +19,7 @@ One then also interprets $\prod_{\mathcal{U}} M_i$ as an $\mathcal{L}$-structure
 [^1]: A non-trivial ultrafilter is a maximal filter that is not a principal ultrafilter (i.e. just all the sets that contain some fixed $x \in I$)
 
 > #### Łoś's theorem 
-> Let $\varphi$ be any $\mathcal{L}$-sentence - for instance if $\mathcal{L}=\{0,1,+,-,\ast\}$ >is the language of rings $\varphi$ could be the sentence that says "$2$ is a square" - then
+> Let $\varphi$ be any $\mathcal{L}$-sentence - for instance if $$\mathcal{L}=\{0,1,+,-,\ast\}$$ is the language of rings $\varphi$ could be the sentence that says "$2$ is a square" - then
 >$$\prod_{\mathcal{U}} M_i \vDash \varphi \Leftrightarrow \{i \in I \mid M_i \vDash \varphi \} \in \mathcal{U}.$$
 
 So the ultraproduct believes a sentence to be true if and only if the set of models that believe the sentence is a filter set. 
