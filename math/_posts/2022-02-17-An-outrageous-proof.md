@@ -10,7 +10,7 @@ Ultraproducts pose a fundamental tool in model theory and we will do some unholy
 
 <div>$$ \prod_{\mathcal{U}} M_i = \prod_{i \in I} M_i / \sim_{\mathcal{U}}  $$   </div>
 
-where $(x_i)_{i \in I} \sim (x'_i)_{i \in I}$ if and only if the set
+where ${(x_i)}_{i \in I} \sim {(x'_i)}_{i \in I}$ if and only if the set
 $\{ i \in I \mid x_i=x'_i\}$ is in $\mathcal{U}$.
 
 One then also interprets $\prod_{\mathcal{U}} M_i$ as an $\mathcal{L}$-structure by checking that functions remain well-defined and by defining relations to hold iff they hold on filter sets. This leads to the following result:
