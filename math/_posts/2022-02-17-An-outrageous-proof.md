@@ -29,8 +29,7 @@ If $p=8n+3$ is prime for some $n \in \mathbb{Z}$, then we can use basic properti
 $$ \left(\frac{2}{p}\right)=-1 $$
 which is equivalent to say that $2$ is not a square modulo $p$.
 
-By a bit more heavy machinery, namely [Dirichlet's theorem on arithmetic progression]
-(https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions) 
+By a bit more heavy machinery, namely [Dirichlet's theorem on arithmetic progression](https://en.wikipedia.org/wiki/Dirichlet%27s_theorem_on_arithmetic_progressions) 
 there are infinitely many primes of the form $p=8n+3$.
 Let $P$ be the set of those primes.
 
