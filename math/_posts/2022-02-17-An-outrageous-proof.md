@@ -39,10 +39,10 @@ We now envoke the axiom of choice[^2] to produce a non-principal ultrafilter on 
 $$ F:=\prod_{\mathcal{U}} \mathbb{F}_p. $$
 By Łoś's theorem the following things are true:
  
-- $F$ is  a field, cause all the $\mathbb{F}_p$ are fields and that is a first-order property
+- $F$ is  a field, cause all the $\mathbb{F}_p$ are fields and that is a first-order property.
 - All the $\mathbb{F}_p$ believe that there is no square root of $2$, so $F$ also does not have a square root of $2$.
-- There are arbitrarily large $p$'s in $P$, hence the  theorem $\underline{1+\ldots+1}_{p-\text{times}} \neq 0$ is true in $\mathbb{F}_p$ for cofinitely many $p$, hence $F$ necessarily has characteristic $0$
-- Because $F$ has characteristic $0$, there is a unique embedding $\mathbb{Q} \hookrightarrow F$
+- There are arbitrarily large $p$'s in $P$, hence the  theorem $\underline{1+\ldots+1}_{p-\text{times}} \neq 0$ is true in $\mathbb{F}_p$ for cofinitely many $p$, hence $F$ necessarily has characteristic $0$.
+- Because $F$ has characteristic $0$, there is a unique embedding $\mathbb{Q} \hookrightarrow F.$
 - So $\mathbb{Q}$ can not have a square root of 2, because $F$ does not even have one!
 
 
