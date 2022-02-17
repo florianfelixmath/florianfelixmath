@@ -8,9 +8,9 @@ Sometimes a good tool to make people remember something is to do something utter
 ###  Ultraproducts
 Ultraproducts pose a fundamental tool in model theory and we will do some unholy work with them. First a quick reminder: We fix some language $\mathcal{L}$ and take any index set $I$ to index a bunch of $\mathcal{L}$-structures $(M_i)_{i \in I}$. We then take a non-trivial ultrafilter [^1] $\mathcal{U}$ of $I$ and define
 
-$$ \prod_{\mathcal{U}} M_i = \prod_{i \in I} M_i \ \sim_{\mathcal{U}}  $$  
+$$ \prod_{\mathcal{U}} M_i = \prod_{i \in I} M_i / \sim_{\mathcal{U}}  $$  
 
-where $\(x_i\)_{i \in I} \sim \(x'_i\)_{i \in I}$ if and only if the set
+where $$\(x_i\)_{i \in I} \sim \(x'_i\)_{i \in I}$$ if and only if the set
 $\{ i \in I \mid x_i=x'_i\}$ is in $\mathcal{U}$.
 
 One then also interprets $\prod_{\mathcal{U}} M_i$ as an $\mathcal{L}$-structure by checking that functions remain well-defined and by defining relations to hold iff they hold on filter sets. This leads to the following result:
