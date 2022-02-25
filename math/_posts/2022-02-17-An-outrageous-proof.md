@@ -3,6 +3,8 @@ usemathjax: true
 ---
 ## An absurd proof that $\sqrt{2}$ is irrational
 
+*Edit:* I was made aware that this proof appeared on [Stackexchange](https://math.stackexchange.com/a/1311239/510814) before!
+
 Sometimes a good tool to make people remember something is to do something utterly outrageous. I will hence give you the worst proof you have ever seen to show that $\sqrt{2}$ is irrational. It uses a bit of non-trivial number theory and a bit of model theory and also it uses a weak form of the axiom of choice.
 
 ###  Ultraproducts
