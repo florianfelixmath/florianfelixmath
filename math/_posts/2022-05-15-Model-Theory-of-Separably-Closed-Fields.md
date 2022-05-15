@@ -67,7 +67,7 @@ this language by $\mathrm{SCF}_{p,e}$. It admits quantifier elimination:
 The proof only uses a few facts about fields of definition and general varieties and enables us to do the following.
 
 ---
-**Theorem.** (Delon, also in a more general setting **was this already done by Ershov?**) $\mathrm{SCF}_{p,e}$ admits quantifier elimination.
+**Theorem.** (Delon, in a more general setting) $\mathrm{SCF}_{p,e}$ admits quantifier elimination.
 
 ---
 **Proof:** It suffices to prove that for a $\aleph_1$-saturated model $L$ and a countable model $K$ and $A \leq K$ and $B \leq L$, if $A \cong B$, this isomorphism extends to  an elementary embedding of $K$ into $L$.
