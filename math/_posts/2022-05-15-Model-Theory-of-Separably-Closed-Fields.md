@@ -1,4 +1,6 @@
-
+---
+usemathjax: true
+---
 # Model Theory of Separably Closed Fields
 
 ---
