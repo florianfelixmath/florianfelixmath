@@ -109,7 +109,7 @@ We are quite far from seeing a definite answer for this conjecture, yet all evid
 Separably closed fields are all nice and well-understood, to the point that their theory sits comfortably in the paradise of stable theories (where almost all machinery seems to work as it should). One might then be tempted to add a little spice to their structure; we have already seen an enrichment of the original pure ring structure, via $\lambda$-functions -- this is however, in a sense, an harmless expansion. It is an expansion by definable objects, and while naming them gives us QE, it is not a very natural expansion, where 'natural' might be defined as 'met in their daily life by the average mathematician'. One might want to enrich this structure further, by adding some more interesting objects, like endomorphisms.
 
 This is per se not a complicated recipe -- it is just the addition of a symbol $\sigma$ for some map of rings $\sigma: K \to K$ to our language. The theory will then have to also mention $\sigma$, and the fact that it is a map. All of this is straightforward.
-What happens next, however, is highly complicated. The resulting theory, or rather its *model companion* $\mathrm{SCFE}_e$,_  is terribly non-trivial, and while it is somehow building up on the stability of $\mathrm{SCF}_{p,e}$ (most proofs rest on the shoulders on the machinery of canonical bases), it is fundamentally more complex.
+What happens next, however, is highly complicated. The resulting theory, or rather its model companion $\mathrm{SCFE}_e$,  is terribly non-trivial, and while it is somehow building up on the stability of $\mathrm{SCF}_{p,e}$ (most proofs rest on the shoulders on the machinery of canonical bases), it is fundamentally more complex.
 
 --- 
 
