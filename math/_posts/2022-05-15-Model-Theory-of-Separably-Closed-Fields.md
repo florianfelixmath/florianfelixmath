@@ -83,8 +83,8 @@ If you are a model theorist, and you are given a theory, the first question you 
 
 --- 
 
-This admits a very nice rephrasing in terms of the *omission* of certain combinatorial patterns, under the belief that one might obtain tameness (or, in other words, remove wildness) for theories by prescribing that their definable sets avoid certain infamous (as the kids say, *cursed*) combinatorial configurations. This philosophy guides the efforts in *abstract* (or *pure*) model theory, leading to the identification of classes of theories like NIP theories,
-$\mathrm{NIP}_n$  theories, NTP2 theories and so on. These combinatorial definitions allow us to split the landscape of mathematical theories into chunks, a bit like a map, in which we can place the theories we know according to their *complexity*. Before moving on to see how this relates to our favourite fields, let us see an example.
+This admits a very nice rephrasing in terms of the *omission* of certain combinatorial patterns, under the belief that one might obtain tameness (or, in other words, remove wildness) for theories by prescribing that their definable sets avoid certain infamous (as the kids say, *cursed*) combinatorial configurations. This philosophy guides the efforts in *abstract* (or *pure*) model theory, leading to the identification of classes of theories like $\mathrm{NIP} theories,
+$\mathrm{NIP}_n$  theories, $\mathrm{NTP2}$ theories and so on. These combinatorial definitions allow us to split the landscape of mathematical theories into chunks, a bit like a map, in which we can place the theories we know according to their *complexity*. Before moving on to see how this relates to our favourite fields, let us see an example.
 First of all, what is the combinatorial pattern omitted in stability? One wants to avoid the presence of a linear order (definable) in the structure, to avoid the insurgence of too many cuts (and hence too many types, and hence too many models). We will say that a theory $T$ has the order property (OP) if there is a formula $\phi(x,y)$ and a model $M \vDash T$ and elements 
 
 ${(a_i)}_{i \in \mathbb{N}}$,
