@@ -77,11 +77,11 @@ Here is how the added $\lambda$-functions save the day: Because every substructu
 Now this is easy, let $k_1$ be a substructure of $K$ and $k_2$ a substructure of $L$ with $k_1 \cong k_2$, then we can easily extend this isomorphism to the separable closure of their fraction fields, which have to have the same imperfection degree like the ambient structure and then we complete with model completeness and saturation of $L$.
 
 ## The stable fields conjecture
-If you are a model theorist, and you are given a theory, the first question you might come up with is: How many models are there? Or more precisely, if you give me a cardinal, how many models (up to isomorphism) are there of that cardinality? The question is somehow natural -- classifying structures down to some decent notion of *equality* is common throughout mathematical fields (pun not intended), and in a sense one would like to know exactly how extensive the library of possible structures to pick from is. As natural as it is, it ends up being a highly complicated investigation; for a cardinal $\kappa$, there are at most $2^\kappa$ models of cardinality $\kappa$, but the whole spectrum between $1$ (so-called $\kappa$-categoricity) and $2^\kappa$ is a priori possible. The next natural step, then, is to reduce the class of theories we look at: we want *tame* theories that don't admit *too many* different models; for example, we might say that we want *strictly less* than $2^\kappa$ models. This is called *stability*.
+If you are a model theorist, and you are given a theory, the first question you might come up with is: How many models are there? Or more precisely, if you give me a cardinal, how many models (up to isomorphism) are there of that cardinality? The question is somehow natural -- classifying structures down to some decent notion of *equality* is common throughout mathematical fields (pun not intended), and in a sense one would like to know exactly how extensive the library of possible structures to pick from is. As natural as it is, it ends up being a highly complicated investigation; for a cardinal $\kappa$, there are at most $2^\kappa$ models of cardinality $\kappa$, but the whole spectrum between $1$ (so-called $\kappa$-categoricity) and $2^\kappa$ is a priori possible. The next natural step, then, is to reduce the class of theories we look at: we want *tame* theories.
 
 --- 
 
-**Definition.** A theory $T$ is said to be *stable* if there is a cardinal $\kappa$ such that $T$ has strictly less than $2^\kappa$ non-isomorphic models of cardinality $\kappa$.
+Definition. A theory $T$ is ($\kappa$-)stable if, for any model $M \vDash T$ and $A \subseteq M$ of cardinality at most $\kappa$, the set $S_1(A)$ of $1$-types over $A$ has size at most $\kappa$.
 
 --- 
 
