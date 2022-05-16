@@ -81,7 +81,7 @@ If you are a model theorist, and you are given a theory, the first question you 
 
 --- 
 
-Definition^1. A theory $T$ is ($\kappa$-)stable if, for any model $M \vDash T$ and $A \subseteq M$ of cardinality at most $\kappa$, the set $S_1(A)$ of $1$-types over $A$ has size at most $\kappa$.
+Definition[^1]. A theory $T$ is ($\kappa$-)stable if, for any model $M \vDash T$ and $A \subseteq M$ of cardinality at most $\kappa$, the set $S_1(A)$ of $1$-types over $A$ has size at most $\kappa$.
 
 --- 
 
