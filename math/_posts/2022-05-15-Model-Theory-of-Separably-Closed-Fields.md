@@ -81,9 +81,11 @@ If you are a model theorist, and you are given a theory, the first question you 
 
 --- 
 
-Definition. A theory $T$ is ($\kappa$-)stable if, for any model $M \vDash T$ and $A \subseteq M$ of cardinality at most $\kappa$, the set $S_1(A)$ of $1$-types over $A$ has size at most $\kappa$.
+Definition^1. A theory $T$ is ($\kappa$-)stable if, for any model $M \vDash T$ and $A \subseteq M$ of cardinality at most $\kappa$, the set $S_1(A)$ of $1$-types over $A$ has size at most $\kappa$.
 
 --- 
+
+[^1]: This section previously contained an incorrect definition, we thank Artem Chernikov for pointing it out.
 
 This admits a very nice rephrasing in terms of the *omission* of certain combinatorial patterns, under the belief that one might obtain tameness (or, in other words, remove wildness) for theories by prescribing that their definable sets avoid certain infamous (as the kids say, *cursed*) combinatorial configurations. This philosophy guides the efforts in *abstract* (or *pure*) model theory, leading to the identification of classes of theories like
 $$\mathrm{NIP}$$ theories, $$\mathrm{NIP}_{n}$$ theories, $$\mathrm{NTP2}$$ theories and so on. These combinatorial definitions allow us to split the landscape of mathematical theories into chunks, a bit like a map, in which we can place the theories we know according to their *complexity*. Before moving on to see how this relates to our favourite fields, let us see an example.
